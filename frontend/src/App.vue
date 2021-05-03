@@ -10,8 +10,12 @@
           text-color="orange"
           active-text-color="#ffd04b"
         >
-          <el-menu-item index="1"><router-link to="/">Books</router-link></el-menu-item>
-          <el-menu-item index="2" v-if="!token"><router-link to="/signup">Signup</router-link> </el-menu-item>
+          <el-menu-item index="1"
+            ><router-link to="/">Books</router-link></el-menu-item
+          >
+          <el-menu-item index="2" v-if="!token">
+            <router-link to="/signup">Signup</router-link>
+          </el-menu-item>
           <el-menu-item index="3" v-else>
             <el-button type="text" @click="logout()">Logout</el-button>
           </el-menu-item>
@@ -28,21 +32,21 @@ import {mapState} from 'vuex'
 export default {
   name: "app",
   data: function () {
-    return {
-    };
+    return {};
   },
   computed: mapState(["token"]),
+  //watch: {
+   // token: this.$store.getters.gettokenfromstate,
+ // },
   methods: {
-    logout: function() {
-      this.$store.dispatch("logout").then(() => this.router.push("/"))
-    }
+    logout: function () {
+      this.$store.dispatch("logout").then(() => this.$router.push("/login"));
+    },
   },
   mounted() {
-    this.$store.dispatch("loadbooks")
-    .then(this.$message("Fetched books"))
-    console.log(this.books, "hellocomp")
-    
-  }
+    this.$store.dispatch("loadbooks").then(this.$message("Fetched books"));
+    console.log(this.books, "hellocomp");
+  },
 };
 </script>
 

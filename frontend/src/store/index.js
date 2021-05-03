@@ -9,7 +9,15 @@ export default new Vuex.Store({
     token: localStorage.getItem("token") || "",
     isAuthenicated: false,
   },
+  getters: {
+    gettokenfromstate: state => {
+      return state.token
+    }
+  },
   mutations: {
+    setToken(state, token){
+      state.token = token
+    },
     load(state) {
       if (state.token) {
         API.get("/api/book/")
@@ -41,6 +49,7 @@ export default new Vuex.Store({
         .then(resp => {
           if (resp.status == 200) {
             commit("changeAuth")
+            commit("setToken", resp.data.auth_token)
             localStorage.setItem('token', resp.data.auth_token)
           }
         })

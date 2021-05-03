@@ -1,6 +1,6 @@
 <template>
   <div id="list">
-    <div v-if="!auth">Authenication is required</div>
+    <div v-if="!token">Authenication is required</div>
     <div v-else>
       <div>
         <el-button type="text" @click="dialogFormVisible = true"
@@ -117,7 +117,6 @@ export default {
     return {
       changeForm: false,
       formLabelWidth: "120px",
-      auth: localStorage.getItem("token"),
       showForm: false,
       dialogFormVisible: false,
       fileList: [],
@@ -138,7 +137,7 @@ export default {
       },
     };
   },
-  computed: mapState(["books"]),
+  computed: mapState(["books", "token"]),
   methods: {
     editformhandle(event) {
       const file = event.target.files[0]
