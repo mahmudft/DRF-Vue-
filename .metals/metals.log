@@ -1,0 +1,86 @@
+[0m2021.04.24 12:52:44 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.24 12:52:49 INFO  time: initialize in 4.18s[0m
+[0m2021.04.24 12:52:57 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.24 12:52:57 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.04.24 14:08:07 INFO  shutting down Metals[0m
+[0m2021.04.24 14:10:30 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.24 14:10:32 INFO  time: initialize in 1.44s[0m
+[0m2021.04.24 14:10:55 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.24 14:10:55 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.04.24 14:17:53 INFO  shutting down Metals[0m
+[0m2021.04.24 14:19:06 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.24 14:19:08 INFO  time: initialize in 1.38s[0m
+[0m2021.04.24 14:19:12 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.24 14:19:12 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.04.25 12:26:28 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.25 12:26:32 INFO  time: initialize in 3.72s[0m
+[0m2021.04.25 12:26:51 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.25 12:26:51 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.04.26 10:56:19 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.26 10:56:26 INFO  time: initialize in 6.89s[0m
+[0m2021.04.26 10:56:52 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.26 10:56:52 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Apr 26, 2021 11:37:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.04.27 11:26:38 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.27 11:26:39 INFO  time: initialize in 0.97s[0m
+[0m2021.04.27 11:26:44 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.27 11:26:44 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Apr 27, 2021 4:13:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 27, 2021 4:13:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 27, 2021 4:13:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 27, 2021 4:13:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Apr 27, 2021 4:14:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.04.27 16:17:37 INFO  shutting down Metals[0m
+[0m2021.04.27 16:27:09 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.27 16:27:10 INFO  time: initialize in 1.07s[0m
+[0m2021.04.27 16:27:12 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.27 16:27:12 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.04.28 10:12:39 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.28 10:12:42 INFO  time: initialize in 2.81s[0m
+[0m2021.04.28 10:12:52 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.28 10:12:52 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Apr 28, 2021 5:47:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.04.29 23:03:57 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.29 23:03:59 INFO  time: initialize in 2.06s[0m
+[0m2021.04.29 23:04:08 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.29 23:04:08 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Apr 30, 2021 12:52:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.04.30 09:26:50 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.04.30 09:26:54 INFO  time: initialize in 3.46s[0m
+[0m2021.04.30 09:27:06 WARN  Build server is not auto-connectable.[0m
+[0m2021.04.30 09:27:06 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Apr 30, 2021 9:31:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.01 10:01:00 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.05.01 10:01:02 INFO  time: initialize in 2.57s[0m
+[0m2021.05.01 10:01:10 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.01 10:01:10 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.02 09:29:19 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.05.02 09:29:21 INFO  time: initialize in 1.94s[0m
+[0m2021.05.02 09:29:35 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.02 09:29:35 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.02 15:45:58 INFO  shutting down Metals[0m
+[0m2021.05.02 16:32:09 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.05.02 16:32:11 INFO  time: initialize in 2.23s[0m
+[0m2021.05.02 16:32:16 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.02 16:32:16 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 02, 2021 6:04:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 02, 2021 8:55:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.05.03 10:07:17 INFO  Started: Metals version 0.10.0 in workspace 'E:\booksapi' for client vscode 1.54.1.[0m
+[0m2021.05.03 10:07:21 INFO  time: initialize in 4.3s[0m
+[0m2021.05.03 10:07:34 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.03 10:07:34 WARN  no build tool detected in workspace 'E:\booksapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+May 03, 2021 9:31:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 03, 2021 9:44:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
